@@ -8,7 +8,7 @@ This is a simple dice game in Flutter. I have modified it with winning, loosing 
 ## Future Work
   1. Use functions
   2. Add animations
-  3. Make it computerize (playing with robot)
+  3. Make it computerized (playing with robot)
   4. A new look
 
 ## Getting Started
