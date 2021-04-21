@@ -9,7 +9,7 @@ This is a simple dice game in Flutter. I have modified it with winning, loosing 
 
 This project is a starting point for a Flutter application.
 ## Screenshots are given below: 
-<img src="https://user-images.githubusercontent.com/43939523/115489161-2b85e280-a275-11eb-8e70-60d26e006672.png" width="1080" height="1920">
-<img src="https://user-images.githubusercontent.com/43939523/115489181-30e32d00-a275-11eb-9b45-7b1ab2f16b68.png" width="1080" height="1920">
+<img src="https://user-images.githubusercontent.com/43939523/115489161-2b85e280-a275-11eb-8e70-60d26e006672.png" width="512" height="1100">
+<img src="https://user-images.githubusercontent.com/43939523/115489181-30e32d00-a275-11eb-9b45-7b1ab2f16b68.png" width="512" height="1100">
 
 You may visit https://auideas.com for further details. 
