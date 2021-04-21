@@ -5,6 +5,12 @@ A new Flutter application.
 ## A Flutter Dice Game
 This is a simple dice game in Flutter. I have modified it with winning, loosing and other functionalities. App launches, playr 1 can start the dice rolling first, you may change it to player 2 as well. Each player gets only 10 turns. After completing these turns, the the app decides the winner. Although, I could, I haven't used functions here as this is my second application in flutter.
 
+## Future Work
+  1. Use functions
+  2. Add animations
+  3. Make it computerize (playing with robot)
+  4. A new look
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
